@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <!--<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">-->
+        <!-- Customize your theme here. -->
+    <!--</style>-->
+
+    <style name="RadioNews">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/text_domestic_news_selector</item>
+        <item name="android:duplicateParentState">true</item>
+        <item name="android:button">@null</item>
+        <item name="android:textSize">@dimen/font_24</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:drawablePadding">5dp</item>
+    </style>
+
+
+    <style name="Divider">
+        <item name="android:layout_height">1px</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">@color/gray_light</item>
+    </style>
+</resources>

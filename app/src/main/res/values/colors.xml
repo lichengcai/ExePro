@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--首页底部按钮-->
+    <color name="first_pager_radio">#1494ff</color>
+    <!-- 字体颜色 -->
+    <color name="font_title">#FFFFFF</color>
+    <color name="font_heavy_black">#333333</color>
+    <color name="font_light_black">#555555</color>
+    <color name="font_heavy_gray">#656e73</color>
+    <color name="font_light_gray">#b4b5b5</color>
+    <color name="font_today_date">#666666</color>
+    <color name="font_competitive_product">#888888</color>
+    <color name="font_red">#f72c2c</color>
+    <color name="font_record">#969696</color>
+    <color name="font_gravy">#a9a9a9</color>
+    <color name="font_sale_count">#999999</color>
+
+
+    <!-- 背景颜色 -->
+    <color name="background">#f2f4f6</color>
+    <color name="bg_login">#3b82c4</color>
+    <color name="bg_course_detail_top_bar">#88000000</color>
+    <color name="bg_course_detail_bottom_bar">#3c4650</color>
+
+    <color name="bg_cart_heavy_gray">#e6eaed</color>
+    <color name="bg_cart_light_gray">#eff3f6</color>
+
+    <!-- 基础色 -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red">#ff0000</color>
+    <color name="tran">#00000000</color>
+    <color name="blue">#3b82c4</color>
+    <color name="yellow">#ffb400</color>
+    <color name="green">#339900</color>
+    <color name="gray_heavy">#8f8f8f</color>
+    <color name="gray_light">#cccccc</color>
+    <color name="orange">#ff6600</color>
+    <color name="divider_for_edt">#b4b5b5</color>
+    <!-- 登录 -->
+    <color name="login_retrieve_password">#3b82c4</color>
+    <color name="login_btn">#0088fe</color>
+
+    <!-- 找回密码 -->
+
+    <!--主页 -->
+    <color name="bg_top_search_layout">#e8e8e8</color>
+    <color name="bg_fliter_tab">#b6d2ec</color>
+
+    <!-- 我的直播 -->
+    <color name="bg_my_live_top_tab">#b6d2ec</color>
+    <color name="bg_my_live_item">#f2f4f6</color>
+
+    <!--首页-->
+    <color name="font_competitive_isfree">#009900</color>
+    <color name="font_competitive_nofree">#ff9803</color>
+    <color name="today_live">#008ffc</color>
+    <!-- 课程详情-->
+    <color name="buy_now">#0088ff</color>
+    <color name="shopping_cart">#00b4ff</color>
+    <color name="course_information_bottom">#f8f8f8</color>
+</resources>

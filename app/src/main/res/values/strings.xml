@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExePro</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="domestic_news">国内新闻</string>
+    <string name="interest_news">兴趣新闻</string>
+    <string name="international_news">国际新闻</string>
+    <string name="btn_refresh">重新加载</string>
+</resources>
